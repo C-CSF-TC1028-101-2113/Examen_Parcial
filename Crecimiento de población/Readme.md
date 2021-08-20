@@ -12,8 +12,9 @@ IMPORTANTE: Trunca los decimales del número resultante, para que el resultado s
 
 Ejemplo de ejecución del programa:
 
-```>>> 100  
+```
+>>> 100  
 >>> 1
 >>> 0.5
-164 ```
-
+164
+```
