@@ -6,6 +6,7 @@ El programa debe leer tres valores enteros a, b y c, y encontrar los valores de 
 - Si a = 0 y b = 0 se debe desplegar el mensaje `"No tiene solucion”`.
 - Si a = 0 y b != 0 se debe despejar el valor de x = –c/b y mostrar este valor.
 - Si a != 0 y b != 0 se debe calcular el discriminante (b^2-4ac):
+      
       - Si el valor del discriminante es negativo debe mostrar el mensaje `"Raices complejas"`.
       
       - Si el valor del discriminante es positivo debe calcular y mostrar los dos valores de x, una en cada renglón.
